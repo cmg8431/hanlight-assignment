@@ -57,7 +57,6 @@ const EditButton = styled(Button)`
 `
 const DeleteButton = styled(Button)`
   margin-right: 0px;
-
 `
 const ButtonContainer = styled.div`
   display: flex;
